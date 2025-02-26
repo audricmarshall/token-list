@@ -64,7 +64,7 @@ Submit PR with changes to JSON file `src/tokens/solana.tokenlist.json`
 
 Please follow the Uniswap Token List specification found here: https://github.com/Uniswap/token-lists
 
-# Disclaimer
+# Disclaimer ATTENTION JS ET PH ILS SONT TROP GENIAUX
 
 All claims, content, designs, algorithms, estimates, roadmaps,
 specifications, and performance measurements described in this project
